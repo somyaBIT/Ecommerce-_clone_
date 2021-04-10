@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce_clone",
+  "version": "1.0.0",
+  "description": "clone rest api using expressjs and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "Somya Singh",
+  "license": "ISC"
+}
